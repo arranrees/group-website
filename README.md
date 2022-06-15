@@ -8,7 +8,7 @@ Lists are created using an astrisk or hyphen followed by a space
 
 ## Learning Markdown
 
-Vanilla text contain *italics* and **bold**
+Vanilla text contain *italics* and **bold** and emojis can be added too! 🏳️‍🌈 🏳️‍⚧️
 
 This paragraph is separated from the previous one by a blank line.
 Line breaks  
