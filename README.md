@@ -27,3 +27,5 @@ or by double adding blank line spaces
     1. section 1 - this requires four spaces for a sublist
     2. section 2
 4. Philosophy carpentry
+
+![Data carpentries logo taken from an image that is online - you cannot change the size etc without going deeper into html editing.](https://www.library.ucsb.edu/sites/default/files/styles/event_thumbnail__200x180_/public/data_carp_python_logo.png?itok=a5eAQ-yh) 
